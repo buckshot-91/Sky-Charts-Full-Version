@@ -240,4 +240,4 @@ This repository serves as the official landing page for Sky Charts. The software
 **Get the most recent version of Sky Charts today!**
 
 ---
-**Last updated:** 2026-10-11 20:02:24 UTC
+**Last updated:** 2026-10-12 00:19:02 UTC
